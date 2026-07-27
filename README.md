@@ -1,7 +1,7 @@
 
 <!-- Updated using CONTEXT.md -->
 <!-- ===================================================== -->
-<!--                     -->
+<!--               RAHUL BOHRA — GitHub Profile            -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -10,14 +10,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Rahul%20Bohra&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Building%20AI-first%20products%20that%20solve%20real%20problems&descSize=18&descAlignY=55&animation=fadeIn&duration=2000" width="100%"/>
 <br/><br/>
 <!-- Status Badges with Glow Effect -->
-<img src="https://img.shields.io/badge/🔥-Building%20Zyromit-E34C26?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥-Building%20AI--First%20Products-E34C26?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/📍-India-238636?style=for-the-badge&logo=location-dot&logoColor=white" />
-<img src="https://img.shields.io/badge/YC%20Applicant-FF6B35?style=for-the-badge&logo=ycombinator&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to%20Collaborate-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💼-PM%20%40%20ICICI%20Bank-0056B3?style=for-the-badge&logo=work&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀-Ex--Founder-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" />
 <br/><br/>
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=AI+Engineer+%7C+Builder+%7C+Founder;Automation+for+Operations+and+Analytics;Product+Manager+%7C+AI-first+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Product+Manager+%7C+AI-first+Builder;Building+Products+from+Zero+to+One;Founder+%7C+Product+Growth+%26+Strategy" />
 <!-- Animated Wave Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162033,100:1F6FEB&height=60&section=wave" width="100%"/>
 </div>
@@ -32,9 +32,9 @@
 
 </div>
 
-I'm a **Product Manager at ICICI Bank** building AI-first products, fintech solutions, marketplaces, and SaaS applications from zero to one. I enjoy validating ideas, shipping MVPs quickly, and using AI to create leverage.
+I am a **Product Manager at ICICI Bank** who loves building AI-first software products from scratch. I don't just manage products—I validate ideas, build MVPs, design monetization, improve user experience, and iterate rapidly using AI. 
 
-**Product Manager** who thinks like a founder. I build products users love through rapid experimentation, data, and AI.
+I think like a founder, with the long-term goal of building products used by millions while becoming one of the strongest Product + AI builders in India.
 
 ---
 
@@ -46,72 +46,86 @@ I'm a **Product Manager at ICICI Bank** building AI-first products, fintech solu
 
 ### 🧠 [Zyromit](https://github.com/bohrarahul) `IN PROGRESS`
 
-**Cross-border fintech platform for NRIs and Indian users.**
+**Cross-border remittances & USDT transactions for NRIs.**
 
-Instead of opening 5 tools to investigate a metric.
-
-Zyromit does it all in one conversation.
+Defined product strategy, PRDs, user flows, and MVP roadmap. Built compliance infrastructure incorporating KYC/AML tracking.
 
 ```
-🤔 Your Question
-      ↓
-   AI Reasoning
-      ↓
-   Data + Docs + Context
-      ↓
-   Actionable Answer
+Remittance Request
+       ↓
+ KYC/AML Verification
+       ↓
+Secure Transaction Track
+       ↓
+  USDT / Fiat Delivery
 ```
 
-**Stack:** Python • OpenAI • LangGraph • MCP • FastAPI
+**Stack:** Python • Supabase • REST APIs • KYC/AML Integration
 
 </td>
 <td width="50%" valign="top">
 
-### 📷 [GradAI](https://github.com/bohrarahul) `IN PROGRESS`
+### 🎓 [GradAI](https://github.com/bohrarahul) `COMPLETE`
 
-**AI-powered answer evaluation platform.**
+**AI-powered answer evaluation platform for educators.**
 
-Capture screenshots.
-Search them forever.
-
-No manual organization required.
+Streamlines grading processes using OCR and semantic RAG pipelines. Saves 70% of evaluation time for teachers.
 
 ```
-📸 Capture
-      ↓
-   AI Indexing
-      ↓
-   Semantic Search
-      ↓
-   Find Anything
+Scan Answer Sheet (OCR)
+       ↓
+ Retrieve Rubrics (RAG)
+       ↓
+ LLM Grading & Feedback
+       ↓
+ 70% Teacher Time Saved
 ```
 
-**Stack:** Flutter • Dart • AI Vision • Riverpod
+**Stack:** Python • OCR • RAG • LLMs (GPT/Claude)
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 👥 [DineTrust](https://github.com/bohrarahul) `COMPLETE`
+### 🗺️ [DineTrust](https://github.com/bohrarahul) `COMPLETE`
 
-**AI-powered social dining discovery platform.**
+**AI-powered social dining discovery ("Letterboxd for food").**
 
-Google Form → AI Search → Candidate Ranking → Excel Report
+A friend-first dining map for sharing restaurant experiences. Built with Expo/Flutter, Firebase, and Google Places.
 
-*Fully automated end-to-end pipeline.*
+```
+Google Places API
+       ↓
+Location Check-in Map
+       ↓
+Recommendation Engine
+       ↓
+Instagram Story Generator
+```
+
+**Stack:** React Native (Expo) • Flutter • Firebase • Supabase
 
 </td>
 <td valign="top">
 
-### 💳 [ViralVintage](https://github.com/bohrarahul) `COMPLETE`
+### 👥 [ViralVintage](https://github.com/bohrarahul) `COMPLETE`
 
-**Creator marketplace with AI-powered monetization.**
+**Two-sided creator marketplace & monetization engine.**
 
-• Spending Trends • Merchant Analysis<br>
-• AI Summaries • Interactive Dashboard
+Enables creator discovery, brand collaboration, and pay-per-view monetization. Developed custom pricing & distribution engines.
 
-*From raw data to actionable intelligence.*
+```
+Creator Discovery
+       ↓
+Brand Collaboration
+       ↓
+Pay-Per-View Paywall
+       ↓
+Pricing & Distribution
+```
+
+**Stack:** React • Firebase • Firestore • Payment APIs
 
 </td>
 </tr>
@@ -125,11 +139,11 @@ Google Form → AI Search → Candidate Ranking → Excel Report
 
 ```mermaid
 graph LR
-    A[Messy Operations] --> B[Multiple Data Sources]
-    B --> C[Context & Reasoning]
-    C --> D[AI Agents]
-    D --> E[Automation]
-    E --> F[Less Manual Work]
+    A[Identify Real Problem] --> B[Validate with Users]
+    B --> C[Build & Ship MVP]
+    C --> D[Embed AI & Analytics]
+    D --> E[Measure & Monetize]
+    E --> F[Iterate Continuously]
     
     style A fill:#ff6b6b,stroke:#ee5a5a,color:#fff
     style B fill:#feca57,stroke:#f9b234,color:#333
@@ -139,7 +153,7 @@ graph LR
     style F fill:#00d2d3,stroke:#01a3a4,color:#fff
 ```
 
-Most business problems aren't actually hard. They're just spread across too many tools. The real work is stitching context together and letting AI do the investigation.
+Products should solve one real problem exceptionally well, launch fast, and iterate continuously based on user validation. I believe in embedding AI and metrics early to drive monetization and scalability.
 
 </div>
 
@@ -149,40 +163,38 @@ Most business problems aren't actually hard. They're just spread across too many
 
 <div align="center">
 
-### 🤖 AI & Intelligence
+### 💼 Product & Strategy
 <p>
+<img src="https://img.shields.io/badge/Product_Strategy-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVP_Development-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Growth_Hacking-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monetization-E34C26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/User_Research-6F42C1?style=for-the-badge" />
+</p>
+
+### 🤖 AI & Technical
+<p>
+<img src="https://img.shields.io/badge/LLMs_%26_RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-6F42C1?style=for-the-badge&logo=mcp&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 📊 Data & Analytics
-<p>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Infra
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-### 📱 Mobile
+### 📱 Frontend & Mobile
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Riverpod-4C8BF5?style=for-the-badge&logo=riverpod&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Operations
+<p>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 </div>
@@ -193,10 +205,10 @@ Most business problems aren't actually hard. They're just spread across too many
 <div align="center">
 
 <img src="https://img.shields.io/badge/🤖_Multi--Agent_Systems-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧠_AI_Memory_&_Context-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔗_Model_Context_Protocol_(MCP)-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💳_Fintech_Remittances-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👥_Creator_Monetization-238636?style=for-the-badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/🕸️_Knowledge_Graphs-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔗_Model_Context_Protocol_(MCP)-6F42C1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🔄_Autonomous_Workflows-E34C26?style=for-the-badge" />
 
 </div>
@@ -207,7 +219,9 @@ Most business problems aren't actually hard. They're just spread across too many
 
 <div align="center">
 
-> **"Launch fast. Validate with users. Iterate continuously. Use AI wherever it creates leverage."**
+> **"Solve one real problem exceptionally well. Launch fast. Validate with users. Iterate continuously. Use AI wherever it creates leverage. Measure everything."**
+> 
+> *I prefer execution over perfection.*
 
 </div>
 
@@ -223,14 +237,14 @@ Most business problems aren't actually hard. They're just spread across too many
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 </a>
-<a href="mailto:rahul.bohra.042@gmail.com.com">
+<a href="mailto:rahul.bohra.042@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/bohrarahul">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br/>
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ganesh-chandak&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=bohrarahul&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS) -->
 
 </div>
 
